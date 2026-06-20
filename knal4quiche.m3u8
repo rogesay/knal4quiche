@@ -1,4 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Knal 4 Quiché" group-title="Guatemala",Knal 4 Quiché
-#EXTHTTP:{"Referer":"https://player.castr.com/","Origin":"https://player.castr.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:http-origin=https://player.castr.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://stream.castr.com/68bf10e753d7e096885db882/live_2080d4809e3311f0b7157939aa22366e/index.m3u8
